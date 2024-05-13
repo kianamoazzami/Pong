@@ -1,4 +1,4 @@
 # Pong
 Developed a pong clone in Lua using Love2D as a part of Harvard's CS50G course
 
-Can play as 1 or 2 players. In single player mode, the player 2 will move on its own.
+Can play as 1 or 2 players. In single player mode, player 2 will move on its own.
