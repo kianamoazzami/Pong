@@ -1,2 +1,2 @@
 # Pong
-Developed a pong clone using lua as a part of Harvard's CS50G course
+Developed a pong clone in Lua using Love2D as a part of Harvard's CS50G course
